@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A master student of ECE department at UIUC.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Constantly learning
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[zhel3@illinois.edu](zhel3@illinois.edu)
