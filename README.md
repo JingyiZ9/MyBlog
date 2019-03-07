@@ -1,5 +1,5 @@
 ## Blog
-url: https://770120041.github.io
+url: https://770120041.github.io/myblog/
 
 ## About
 Personal blog forked from [jekyll-now](https://github.com/barryclark/jekyll-now)
