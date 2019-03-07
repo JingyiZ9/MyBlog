@@ -9,7 +9,7 @@ name: Zhe Liu's Blog
 description: Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/770120041/myblog/blob/master/images/cat.jpg?raw=true
+avatar: https://github.com/JingyiZ9/myblog/blob/master/images/cat.jpg?raw=true
 #
 # Flags below are optional
 #
@@ -20,7 +20,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 770120041
+  github: JingyiZ9
   instagram:
   linkedin:
   pinterest:
@@ -46,7 +46,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/myblog"
+baseurl: "/MyBlog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
