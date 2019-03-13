@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A master student of ECE department at UIUC.
+A master student of Statistics department at UIUC.
 
 
 ### More Information
@@ -12,4 +12,4 @@ A master student of ECE department at UIUC.
 Constantly learning
 
 ### Contact me
-[zhel3@illinois.edu](zhel3@illinois.edu)
+[jingyi.zhu256@outlook.com](jingyi.zhu256@outlook.com)
