@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Leetcode"
+title:  1TwoSum
 categories: leetcode
 ---
 
-wewewrtw
-
+ererer
