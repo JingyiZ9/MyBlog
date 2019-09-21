@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  1TwoSum
+title:  "1TwoSum"
 categories: leetcode
 ---
 
