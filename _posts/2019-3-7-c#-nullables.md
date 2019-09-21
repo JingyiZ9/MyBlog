@@ -5,5 +5,6 @@ categories: leetcode
 ---
 
 Sep.21
+1. TwoSum
 
 
